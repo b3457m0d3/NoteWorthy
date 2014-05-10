@@ -24,12 +24,12 @@ Built from the ground up for use with the **Galaxy Note** series
 
 
 
- |  TO DO                                                  |
- |-------------------------------------------------------:|
- | consolidate helper classes |
- | finish 2 main controllers (_Activities_) |
- | ramp up the ui |
- | add yuicompressor for minfication of dynamic resources |
- | implement a plugin architecture |
- | create a parser for custom templates |
- | more to come once these are finished! |
+ ##**TO DO**                                                  
+
+ -consolidate helper classes                             
+ -finish 2 main controllers (_Activities_) 
+ -ramp up the ui 
+ -add yuicompressor for minfication of dynamic resources 
+ -implement a plugin architecture 
+ -create a parser for custom templates 
+ -more to come once these are finished! 
